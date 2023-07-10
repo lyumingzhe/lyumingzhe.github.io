@@ -20,6 +20,16 @@ Research Area
 * Joint inversion of earthquake rupture process
 * Tsunami modelling
 
+Honours and Awards
+======
+* 2023.05 University-level Excellent Master's Thesis, Southern University of Science and Technology
+* 2023.05 Top Ten Outstanding Graduate Students of College of Science, Southern University of Science and Technology
+* 2022.12 Student Excellent Paper Award, 2022 Annual Meeting of Chinese Geoscience Union (CGU)
+* 2022.10 National Scholarship for Postgraduates, Southern University of Science and Technology
+* 2019.10 National Encouragement Scholarship and Excellent Student Scholarship, Wuhan University
+* 2018.10 Excellent Student Scholarship, Wuhan University
+* 2017.10 National Encouragement Scholarship, Wuhan University
+
 Publications
 ======
   <ul>{% for post in site.publications %}
